@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="es.haring.juego" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Juego</name>
+    <description>
+        Juego - Laberinto
+    </description>
+    <author email="carlos.haring@gmail.com">
+        Carlos Haring
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-whitelist"/>
+    <plugin name="cordova-plugin-device-motion"/>
+    <plugin name="cordova-plugin-screen-orientation" />
+</widget>
